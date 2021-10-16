@@ -1,1 +1,1 @@
--novid -nojoy -high -language English +exec autoexec +mat_queue_mode 2 +fps_max 999
+-novid -nojoy -high -language English +exec autoexec +mat_queue_mode 2 +fps_max 999 -allow_third_party_software
